@@ -1,4 +1,4 @@
-package eu.kanade.tachiyomi.extension.ko.jjaptoon
+package eu.kanade.tachiyomi.extension.ko.jjaptoonpackage eu.kanade.tachiyomi.extension.ko.jjaptoon
 
 import eu.kanade.tachiyomi.network.GET
 import eu.kanade.tachiyomi.source.model.*
